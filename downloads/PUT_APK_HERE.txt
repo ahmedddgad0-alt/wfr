@@ -1,0 +1,3 @@
+ضع ملف APK النهائي هنا وسمّه freewave.apk
+المسار المطلوب: downloads/freewave.apk
+لا ترفع ملف keystore أو كلمات المرور إلى الموقع.
